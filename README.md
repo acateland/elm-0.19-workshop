@@ -22,7 +22,7 @@ npm install -g elm elm-test elm-format
 Run this at the terminal:
 
 ```shell
-git clone https://github.com/rtfeldman/elm-0.19-workshop.git
+git clone https://github.com/acateland/elm-0.19-workshop.git
 cd elm-0.19-workshop
 ```
 
